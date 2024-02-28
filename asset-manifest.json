@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/redesign-awayzz/static/css/main.b6371d06.css",
+    "main.js": "/redesign-awayzz/static/js/main.12163713.js",
+    "static/js/787.70c8a722.chunk.js": "/redesign-awayzz/static/js/787.70c8a722.chunk.js",
+    "static/media/foret.jpg": "/redesign-awayzz/static/media/foret.76b27fb7ff589fffeb61.jpg",
+    "index.html": "/redesign-awayzz/index.html",
+    "main.b6371d06.css.map": "/redesign-awayzz/static/css/main.b6371d06.css.map",
+    "main.12163713.js.map": "/redesign-awayzz/static/js/main.12163713.js.map",
+    "787.70c8a722.chunk.js.map": "/redesign-awayzz/static/js/787.70c8a722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6371d06.css",
+    "static/js/main.12163713.js"
+  ]
+}
